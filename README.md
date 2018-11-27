@@ -12,6 +12,8 @@ Starts two instance of stockservice, one on 8000 (default port in property file)
 
 Starts one instance of orderservice on 9000.
 
+Visit Eureka http://localhost:8761/
+![capture](https://user-images.githubusercontent.com/2106362/49117666-c3986100-f2a1-11e8-9c5a-651e05389abf.JPG)
 
 Post some requests to http://localhost:9000/api/order
 ```json
