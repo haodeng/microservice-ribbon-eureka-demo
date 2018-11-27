@@ -1,0 +1,7 @@
+.idea
+*.iws
+*.iml
+*.ipr
+orderservice/target/classes/
+stockservice/target/
+eureka-naming-server/target/classes/
